@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simulador de Alquiler</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body>
+  <header>
+    <h1>Alquiler de Propiedades Las del MOMO</h1>
+    <div id="filtros">
+      <select id="ciudad">
+        <option value="">Todas las ciudades</option>
+        <option value="Bogotá">Bogotá</option>
+        <option value="Medellín">Medellín</option>  
+        <option value="Barranquilla">Barranquilla</option>
+        <option value="Bucaramanga">Bucaramanga</option>
+      </select>
+      <input type="number" id="precioMax" placeholder="Precio máximo por noche">
+      <button id="filtrarBtn">Filtrar</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="propiedades"></section>
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

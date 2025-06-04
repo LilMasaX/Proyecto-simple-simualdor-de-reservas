@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "titulo": "Departamento moderno en Palermo",
+    "ciudad": "Bogotá",
+    "habitaciones": 2,
+    "precioPorNoche": 55,
+    "img": "imagen1.jpg",
+    "descripcion": "Moderno y luminoso, cerca de transporte y parques."
+  },
+  {
+    "id": 2,
+    "titulo": "Casa familiar en las afueras",
+    "ciudad": "Medellín",
+    "habitaciones": 3,
+    "precioPorNoche": 70,
+    "img": "imagen2.jpg",
+    "descripcion": "Ideal para familias, amplio jardín y garaje."
+  },
+  {
+    "id": 3,
+    "titulo": "Monoambiente céntrico",
+    "ciudad": "Barranquilla",
+    "habitaciones": 1,
+    "precioPorNoche": 40,
+    "img": "imagen3.jpg",
+    "descripcion": "Ubicación excelente, cómodo y funcional."
+  },
+  {
+    "id": 4,
+    "titulo": "Departamento con vista a la montaña",
+    "ciudad": "Bucaramanga",
+    "habitaciones": 2,
+    "precioPorNoche": 60,
+    "img": "imagen4.jpg",
+    "descripcion": "Terraza privada con vistas panorámicas."
+  },
+  {
+    "id": 5,
+    "titulo": "Cabaña rústica en el bosque",
+    "ciudad": "Bogotá",
+    "habitaciones": 2,
+    "precioPorNoche": 65,
+    "img": "imagen5.jpg",
+    "descripcion": "Rodeada de naturaleza, ideal para desconectar."
+  },
+  {
+    "id": 6,
+    "titulo": "Penthouse de lujo",
+    "ciudad": "Bucaramanga",
+    "habitaciones": 3,
+    "precioPorNoche": 120,
+    "img": "imagen6.jpg",
+    "descripcion": "Vistas espectaculares y diseño moderno."
+  },
+  {
+    "id": 7,
+    "titulo": "Loft industrial",
+    "ciudad": "Medellín",
+    "habitaciones": 1,
+    "precioPorNoche": 50,
+    "img": "imagen7.jpg",
+    "descripcion": "Estilo único y ubicación estratégica."
+  },
+  {
+    "id": 8,
+    "titulo": "Apartamento frente al mar",
+    "ciudad": "Bogotá",
+    "habitaciones": 2,
+    "precioPorNoche": 75,
+    "img": "imagen8.jpg",
+    "descripcion": "Despierta con el sonido de las olas."
+  },
+  {
+    "id": 9,
+    "titulo": "Apartamento lujoso en la playa",
+    "ciudad": "Barranquilla",
+    "habitaciones": 2,
+    "precioPorNoche": 75,
+    "img": "imagen9.jpg",
+    "descripcion": "Despierta con el sonido de las olas."
+  },
+  {
+    "id": 10,
+    "titulo": "Apartamento en el centro de la ciudad",
+    "ciudad": "Bogotá",
+    "habitaciones": 2,
+    "precioPorNoche": 75,
+    "img": "imagen10.jpg",
+    "descripcion": "Despierta con el sonido de las olas."
+  }
+]
